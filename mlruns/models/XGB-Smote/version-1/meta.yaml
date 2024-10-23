@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729264238622
+current_stage: None
+description: ''
+last_updated_timestamp: 1729264238622
+name: XGB-Smote
+run_id: 6e737bcd05164641931874461fc68a13
+run_link: ''
+source: file:///home/srinath2003/Desktop/mlops/mlruns/217991048383649451/6e737bcd05164641931874461fc68a13/artifacts/model_name
+status: READY
+status_message: null
+storage_location: file:///home/srinath2003/Desktop/mlops/mlruns/217991048383649451/6e737bcd05164641931874461fc68a13/artifacts/model_name
+user_id: null
+version: 1

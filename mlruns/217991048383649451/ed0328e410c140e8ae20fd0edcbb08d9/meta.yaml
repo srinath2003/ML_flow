@@ -1,0 +1,15 @@
+artifact_uri: file:///home/srinath2003/Desktop/mlops/mlruns/217991048383649451/ed0328e410c140e8ae20fd0edcbb08d9/artifacts
+end_time: 1729264718733
+entry_point_name: ''
+experiment_id: '217991048383649451'
+lifecycle_stage: active
+run_id: ed0328e410c140e8ae20fd0edcbb08d9
+run_name: Logistic Regression
+run_uuid: ed0328e410c140e8ae20fd0edcbb08d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729264717624
+status: 3
+tags: []
+user_id: srinath2003

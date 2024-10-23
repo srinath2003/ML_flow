@@ -1,0 +1,16 @@
+artifact_uri: file:///home/srinath2003/Desktop/mlops/mlruns/217991048383649451/eea7dae90627460a8308ab9c029c5f27/artifacts
+deleted_time: 1729184548861
+end_time: 1729184334520
+entry_point_name: ''
+experiment_id: '217991048383649451'
+lifecycle_stage: deleted
+run_id: eea7dae90627460a8308ab9c029c5f27
+run_name: XGBClassifier
+run_uuid: eea7dae90627460a8308ab9c029c5f27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729184333525
+status: 3
+tags: []
+user_id: srinath2003

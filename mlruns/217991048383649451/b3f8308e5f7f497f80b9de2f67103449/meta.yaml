@@ -1,0 +1,16 @@
+artifact_uri: file:///home/srinath2003/Desktop/mlops/mlruns/217991048383649451/b3f8308e5f7f497f80b9de2f67103449/artifacts
+deleted_time: 1729184548859
+end_time: 1729184266896
+entry_point_name: ''
+experiment_id: '217991048383649451'
+lifecycle_stage: deleted
+run_id: b3f8308e5f7f497f80b9de2f67103449
+run_name: Random Forest
+run_uuid: b3f8308e5f7f497f80b9de2f67103449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729184265888
+status: 3
+tags: []
+user_id: srinath2003

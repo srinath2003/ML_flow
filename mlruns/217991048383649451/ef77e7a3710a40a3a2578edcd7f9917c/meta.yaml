@@ -1,0 +1,15 @@
+artifact_uri: file:///home/srinath2003/Desktop/mlops/mlruns/217991048383649451/ef77e7a3710a40a3a2578edcd7f9917c/artifacts
+end_time: 1729267362413
+entry_point_name: ''
+experiment_id: '217991048383649451'
+lifecycle_stage: active
+run_id: ef77e7a3710a40a3a2578edcd7f9917c
+run_name: XGBClassifier With SMOTE
+run_uuid: ef77e7a3710a40a3a2578edcd7f9917c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729264720983
+status: 3
+tags: []
+user_id: srinath2003
