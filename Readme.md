@@ -45,4 +45,5 @@ Srinath R
 - Email: srinathranganathan432@gmail.com
 - LinkedIn: https://www.linkedin.com/in/srinath2003/
 - GitHub: https://github.com/srinath2003
+- Medium: https://medium.com/@srinath2003
 
