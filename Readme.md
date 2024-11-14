@@ -42,7 +42,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Author
 Srinath R
--Email: srinathranganathan432@gmail.com
--LinkedIn: https://www.linkedin.com/in/srinath2003/
--GitHub: github.com/srinath2003
+- Email: srinathranganathan432@gmail.com
+- LinkedIn: https://www.linkedin.com/in/srinath2003/
+- GitHub: https://github.com/srinath2003
 
